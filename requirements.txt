@@ -1,0 +1,9 @@
+python-telegram-bot==21.10
+nest_asyncio
+yfinance
+requests
+yt-dlp
+pytube
+pydub
+apscheduler
+pytz
